@@ -1,7 +1,7 @@
 Source: qtquickcompat
 Section: user/development
 Priority: optional
-Maintainer: Kai Koehne <kai.koehne@nokia.com>
+Maintainer: Mohammad Abu-Garbeyyeh <mohammad7410@gmail.com>
 Build-Depends: debhelper (>= 5)
 Standards-Version: 3.7.3
 Homepage: http://gitorious.org/qtquickcompat/
@@ -9,7 +9,11 @@ Homepage: http://gitorious.org/qtquickcompat/
 Package: qtquickcompat
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Makes 'QtQuick 1.0' QML namespace available in Qt 4.7.0
+Description: This is a transitional dumb package, Qt 4.7.4 is now in the CSSU
+ .
+ Old Description:
+ .
+ Makes 'QtQuick 1.0' QML namespace available in Qt 4.7.0
  Version 4.7.1 of Qt / the QtDeclarative module introduces a new default
  namspace for its basic types: 'QtQuick 1.0'. The originaly namespace 'Qt 4.7'
  still works, but is deprecated.

@@ -1,8 +1,9 @@
-qtquickcompat (0.1.0-0cssu1) unstable; urgency=low
+qtquickcompat (0.1.0+0cssu1) unstable; urgency=low
 
   * Transformed to empty package for Maemo CSSU.
 
- -- Ivaylo Dimitrov <freemangordon@abv.bg>  Fri, 02 Sep 2011 21:53:29 +0300
+ -- Ivaylo Dimitrov <freemangordon@abv.bg>  Sun, 04 Sep 2011 17:40:11 +0300
+
 qtquickcompat (0.1.0) unstable; urgency=low
 
   * Initial Release.
